@@ -4,7 +4,6 @@ import (
 	"fmt"
 
 	m "github.com/damilarelana/goPackages/mathPackage"
-	//  "github.com/damilarelana/introToGo/gomathpackage"
 )
 
 func main() {
