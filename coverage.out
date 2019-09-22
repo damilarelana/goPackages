@@ -1,0 +1,23 @@
+mode: atomic
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:4.46,5.28 1 5
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:12.2,12.10 1 1
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:5.28,7.38 2 4
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:10.3,10.49 1 4
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:7.38,9.4 1 14
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:18.51,19.28 1 13
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:43.2,43.20 1 1
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:19.28,22.38 2 12
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:41.3,41.22 1 12
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:22.38,26.45 3 14
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:36.4,36.17 1 14
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:39.4,39.16 1 2
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:26.45,27.62 1 35
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:33.5,33.17 1 35
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:27.62,32.6 4 2
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:36.17,37.23 1 12
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:50.42,51.28 1 5
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:55.2,55.10 1 1
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:51.28,54.3 2 4
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:62.42,63.28 1 5
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:67.2,67.10 1 1
+github.com/damilarelana/goPackages/mathPackage/mathPackage.go:63.28,66.3 2 4

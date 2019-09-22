@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	m "goPackages/mathPackage"
-	//  "github.com/damilarelana/introToGo/gomathpackage"
+
+	m "github.com/damilarelana/goPackages/mathPackage"
 )
 
 func main() {
