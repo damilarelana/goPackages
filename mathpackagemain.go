@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	m "goPackages/mathPackage"
+
+	m "./goPackages/mathPackage"
 	//  "github.com/damilarelana/introToGo/gomathpackage"
 )
 
