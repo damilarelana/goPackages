@@ -10,4 +10,4 @@ script:
   - ./.travis.gofmt.sh
   - $GOPATH/bin/goveralls -service=travis-ci
   - go test -v -race $(go list ./... | grep -v vendor) 
-  # $(go list ./... | grep -v vendor) generates list of testable packages without `vendor` directories
+  # $(go list ./... | grep -v vendor) generates list of testable packages without vendor directories
